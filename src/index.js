@@ -44,3 +44,6 @@ export {
   defineMessages,
   mergeMessages,
 } from './i18n';
+export {
+  getAuthenticatedUser,
+} from './auth';
